@@ -1,0 +1,20 @@
+{
+  "name": "gofundproj",
+  "version": "1.0.0",
+  "description": "fundraiser project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josefine Wejnefalk",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ignition": "^0.15.8",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.17",
+    "ignition": "^0.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
